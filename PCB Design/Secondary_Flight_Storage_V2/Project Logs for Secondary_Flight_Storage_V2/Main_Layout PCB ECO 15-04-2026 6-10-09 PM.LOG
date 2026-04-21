@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=IO10 Pin=U2-1
+Removed Pin From Net: NetName=IO13 Pin=U2-2
+Removed Pin From Net: NetName=IO11 Pin=U2-5
+Removed Pin From Net: NetName=IO12 Pin=U2-6
+Removed Pin From Net: NetName=IO14 Pin=U2-7
+Added Component: Designator=LED?(QTB-QBLP595_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vf"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Added Pin To Net: NetName=GND Pin=LED?-1
+Added Pin To Net: NetName=IO12 Pin=U2-1
+Added Pin To Net: NetName=IO11 Pin=U2-2
+Added Pin To Net: NetName=IO14 Pin=U2-5
+Added Pin To Net: NetName=IO10 Pin=U2-6
+Added Pin To Net: NetName=IO13 Pin=U2-7
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R1-2
+Added Net: Name=NetLED?_2
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Added Member To Class: ClassName=Main_Schematic Member=Component LED? QBLP595-R
