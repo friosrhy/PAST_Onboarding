@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "S25HL512TDPNHI010")(type "KiCad")(uri "${KIPRJMOD}/Part Libraries/Symbols/S25HL512TDPNHI010.kicad_sym")(options "")(descr ""))
+  (lib (name "Project Symbols")(type "KiCad")(uri "${KIPRJMOD}/Part Libraries/Symbols/Project Symbols.kicad_sym")(options "")(descr ""))
+)

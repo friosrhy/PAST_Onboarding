@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+3.3V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=+3.3V Pin=D2-4
